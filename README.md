@@ -1,13 +1,19 @@
 # 欢迎访问Linux内核之旅开源社区网站
 
-**网站入口：[http://kerneltravel.net/](http://kerneltravel.net/)**
+**注，这是Linux内核之旅复刻版，修改了静态资源CDN为jsdelivr，以应对[bootcdn一些问题](https://www.v2ex.com/t/950163)**
 
-十多年前，陈老师和她的学生康华、陈逸飞等创办了“Linux内核之旅”（http://kerneltravel.net/）
+**复刻版网站入口：[https://kerneltravel.katyusha.me/](https://kerneltravel.katyusha.me/)，仅供个人阅读，另外部分官方源站的更新可能同步不及时，请以源站为准！**
+
+**为了降低复刻网站对源站搜索结果的影响，我增加了robots.txt规则，屏蔽了对复刻网站的搜索引擎爬虫访问。**
+
+**官方网站入口：[https://kerneltravel.net/](https://kerneltravel.net/)**
+
+十多年前，陈老师和她的学生康华、陈逸飞等创办了“Linux内核之旅”（https://kerneltravel.net/）
 网站，并撰写了电子杂志的系列文章。近年来，有把这个网站与微信平台打通的愿望，多年积累，大量的资料大都散落在各处，是时候梳理它们，让它们回归到自己的家园了。
 
 如今，在陈老师和在腾讯工作十多年的许振文师兄的指导下，我们重新对Linux内核之旅进行打造，使之完全自由和开放，我们的运作方式与国际开源社区一样，所有人都可以共建Linux内核之旅开源社区，我们都是贡献者，也是受益者。
 
-<img src="http://ww1.sinaimg.cn/large/005NFTS2ly1geayq0abxzj311j0gsav3.jpg"/>
+<img src="https://ww1.sinaimg.cn/large/005NFTS2ly1geayq0abxzj311j0gsav3.jpg"/>
 
 您可以在我们开源社区网站上进行投稿，我们网站是使用hugo搭建的静态网站，您可以先配置好hugo和git这两个环境，将我们网站的git仓库fork到您的github，git pull 到本地后，您可以添加您的博客文章，添加您阅读陈老师出版书的读书笔记，甚至您还可以优化我们的网站，git push到您的git仓库后，再向我们的主仓库提交 pull requests，我们的管理员看到后会 review 您的提交，如果没有问题的话，就可以 merge 到我们的git主仓库啦。
 
