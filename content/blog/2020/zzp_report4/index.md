@@ -1,6 +1,6 @@
 ---
 title: "THE LINUX/I386 BOOT PROTOCOL"
-date: 2020-12-3T16:50:24+08:00
+date: 2020-12-03T16:50:24+08:00
 author: "H. Peter Anvin"
 keywords: ["boot protocol"]
 categories : ["linux杂谈"]

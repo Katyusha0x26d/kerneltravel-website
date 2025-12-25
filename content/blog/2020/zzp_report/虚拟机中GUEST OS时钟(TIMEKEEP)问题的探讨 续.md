@@ -1,6 +1,6 @@
 ---
 title: "虚拟机中GUEST OS时钟(TIMEKEEP)问题的探讨 续"
-date: 2020-12-3T16:50:24+08:00
+date: 2020-12-03T16:50:24+08:00
 author: "helight"
 keywords: ["时钟"]
 categories : ["时钟管理"]

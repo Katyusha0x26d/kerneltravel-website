@@ -1,6 +1,6 @@
 ---
 title: "Linux's boot process explained"
-date: 2020-12-3T16:50:24+08:00
+date: 2020-12-03T16:50:24+08:00
 author: "Ovidiu T."
 keywords: ["process"]
 categories : ["linux杂谈"]
